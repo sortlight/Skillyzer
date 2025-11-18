@@ -65,6 +65,12 @@ The final step was to share the application across the organization:
 - Categories such as *Marketing*, *Support* and *Operations* were applied.
 - The app was marked as *Verified* in the Q Business console.
 
+
+
+
+<img width="1365" height="671" alt="app_skillyzer" src="https://github.com/user-attachments/assets/e44779c7-5294-400b-a9b1-3743668f0e11" />
+
+
 ---
 ## Repository Structure
 ```
