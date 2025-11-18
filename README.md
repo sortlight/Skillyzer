@@ -80,8 +80,11 @@ The final step was to share the application across the organization:
    <img width="1355" height="596" alt="blocked_words" src="https://github.com/user-attachments/assets/767a7e39-3a07-4fc2-acec-76a509fc16ef" />
 
 ### 5. ACL file created.
+
+```json file
    
-      ```json file
+    
+    
               [
     {
         "keyPrefix": "s3://course-catalog-career-coach-v1/Data/Security/",
@@ -116,10 +119,8 @@ The final step was to share the application across the organization:
 
 
 
-```
 
 
----
 ## Conclusion
 The Career Coach Assistant application demonstrates how Amazon Q Business can be used to automate specialized domain workflows without requiring custom code. By integrating structured prompts, dynamic data sources, content moderation, and identity‑based controls, the application delivers consistent, scalable support to Career Coaches.
 
