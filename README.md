@@ -67,19 +67,19 @@ The final step was to share the application across the organization:
 
 ### Screenshots
 
-##1. Screenshot of final application, showing all the input and output cards.
+### 1. Screenshot of final application, showing all the input and output cards.
     <img width="1365" height="671" alt="app_skillyzer" src="https://github.com/user-attachments/assets/e44779c7-5294-400b-a9b1-3743668f0e11" />
 
-##2. Screenshot of your data sources, showing the last sync time.
+### 2. Screenshot of your data sources, showing the last sync time.
    <img width="1364" height="628" alt="last-sync-time" src="https://github.com/user-attachments/assets/c2bb4c64-e8c9-44a4-bfeb-7f88abeb8284" />
 
-##3. Screenshot of the prompt you used for Skill Gap Analysis Output card.
+### 3. Screenshot of the prompt you used for Skill Gap Analysis Output card.
    <img width="285" height="669" alt="skill_Gap_prompt" src="https://github.com/user-attachments/assets/23204437-b4a8-4c0d-a6c1-a6d73caecfaa" />
 
-##4. Screenshot of the blocked words.
+### 4. Screenshot of the blocked words.
    <img width="1355" height="596" alt="blocked_words" src="https://github.com/user-attachments/assets/767a7e39-3a07-4fc2-acec-76a509fc16ef" />
 
-##5. ACL file created.
+### 5. ACL file created.
    
       ```json file
               [
