@@ -129,5 +129,6 @@ The final product enables Skillyzer to provide learners with up‑to‑date trai
 
 ## Made By
 Ganiyu Ogundana
+ceosortfur@gmail.com
 AWS Business Intelligence Engineer
 
