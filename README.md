@@ -4,7 +4,7 @@ The career coach app you need ---- built with Amazon Q Business
 # Career Coach Assistant 
 
 ## Overview
-This project documents the design and build process for the Career Coach Assistant, a web‑based application powered by Amazon Q Business. The application automates skill‑gap analysis and training recommendations for Career4All coaches by comparing learner CVs with job descriptions and retrieving relevant courses from multiple data sources.
+This project documents the design and build process for the Career Coach Assistant, a web‑based application powered by Amazon Q Business. The application automates skill‑gap analysis and training recommendations for Career coaches by comparing CVs with job descriptions and retrieving relevant courses from multiple data sources.
 
 The goal of this documentation is to provide a clear, professional and technically accurate explanation of how the system was built. 
 
@@ -68,7 +68,8 @@ The final step was to share the application across the organization:
 ### Screenshots
 
 ### 1. Screenshot of final application, showing all the input and output cards.
-    <img width="1365" height="671" alt="app_skillyzer" src="https://github.com/user-attachments/assets/e44779c7-5294-400b-a9b1-3743668f0e11" />
+<img width="1363" height="666" alt="app_skillyzer" src="https://github.com/user-attachments/assets/5f565d1c-f347-4b0d-af4c-edd95aa9cac5" />
+
 
 ### 2. Screenshot of your data sources, showing the last sync time.
    <img width="1364" height="628" alt="last-sync-time" src="https://github.com/user-attachments/assets/c2bb4c64-e8c9-44a4-bfeb-7f88abeb8284" />
@@ -122,7 +123,11 @@ The final step was to share the application across the organization:
 
 
 ## Conclusion
-The Career Coach Assistant application demonstrates how Amazon Q Business can be used to automate specialized domain workflows without requiring custom code. By integrating structured prompts, dynamic data sources, content moderation, and identity‑based controls, the application delivers consistent, scalable support to Career Coaches.
+The Career Coach Assistant application demonstrates how Amazon Q Business can be used to automate specialized domain workflows without requiring custom code. By integrating structured prompts, dynamic data sources, content moderation and identity‑based controls, the application delivers consistent, scalable support to Career Coaches.
 
-The final product enables Career4All to provide learners with up‑to‑date training recommendations while maintaining organizational guidelines for data usage and content quality.
+The final product enables Skillyzer to provide learners with up‑to‑date training recommendations while maintaining organizational guidelines for data usage and content quality.
+
+## Made By
+Ganiyu Ogundana
+AWS Business Intelligence Engineer
 
