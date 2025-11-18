@@ -78,8 +78,9 @@ The final step was to share the application across the organization:
 4. Screenshot of the blocked words.
    <img width="1355" height="596" alt="blocked_words" src="https://github.com/user-attachments/assets/767a7e39-3a07-4fc2-acec-76a509fc16ef" />
 
-5. ACL file you created.
-      ```
+5. ACL file created.
+   
+      ```json file
               [
     {
         "keyPrefix": "s3://course-catalog-career-coach-v1/Data/Security/",
@@ -106,7 +107,7 @@ The final step was to share the application across the organization:
             }
         ]
     }
-]
+   ]
 
 ```
 
